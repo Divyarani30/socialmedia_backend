@@ -1,1 +1,1 @@
-# socialmedia_backend
+# social_media_backend_app
